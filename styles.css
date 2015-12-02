@@ -7,6 +7,11 @@ body{
   color:blue;
 }
 
+
+
+#q {
+  display:none;
+}
 #octocat {
   display: block;
   width:384px;
